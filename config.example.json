@@ -1,0 +1,16 @@
+{
+  "mods_jar_dir": "C:\minecraft\modpack\mods",
+  "mods_root": "C:\minecraft\modpack\_mods_extracted",
+  "out_dir": "C:\minecraft\modpack\_out",
+  "xlsx_lang_name": "ALL_mods_lang_diff.xlsx",
+  "xlsx_patchouli_name": "ALL_mods_patchouli_diff.xlsx",
+  "include_patchouli": true,
+  "pack_name_lang": "JP_LangTranslations",
+  "pack_name_patchouli": "JP_PatchouliTranslations",
+  "lang_dir_name": "lang",
+  "pack_format": 15,
+  "pack_description": "Auto-generated Japanese translation pack",
+  "zip_output": true,
+  "exclude_modids": ["minecraft"],
+  "auto_translate": false
+}

@@ -1,0 +1,11 @@
+# 個人の設定（パスが入るので公開しない）
+config.json
+config.resourcepack.json
+
+# 出力・作業ファイル
+_out/
+*.xlsx
+*.zip
+__pycache__/
+*.pyc
+.venv/
